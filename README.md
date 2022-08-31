@@ -1,6 +1,6 @@
 # SWITO - Food Restaurant Homepage
 
-![Street Style Landing Page](./2.png)
+![Food Restaurant Homepage](./2.png)
 
 **Name**: Aarya Nanndaann Singh M N
 
