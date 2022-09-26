@@ -20,6 +20,7 @@ This is a landing page for a restaurant client created using HTML5 and CSS3 whic
 ## Meta data about project
 
 **Site Type**: *Static*
+
 **Responsive**: ❌
 
 ## Live Link
