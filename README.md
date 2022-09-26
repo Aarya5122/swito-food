@@ -15,7 +15,12 @@
 
 ## What I Learnt
 
-Here I got a chance to explore the CSS Position Property. After quite a bit of hit and trail I got a clarity on the values on what to use when. I had also explored about flexbox. Overall It was a great experience.
+This is a landing page for a restaurant client created using HTML5 and CSS3 which helped me understand the CSS Position property, flexbox concepts, and background properties and how to handle SVG. Here I got a chance to explore the CSS Position Property. After quite a bit of hit and trail I got a clarity on the values on what to use when. I had also explored about flexbox. Overall It was a great experience.
+
+## Meta data about project
+
+**Site Type**: *Static*
+**Responsive**: ❌
 
 ## Live Link
 
